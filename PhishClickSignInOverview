@@ -1,7 +1,5 @@
 // Gives an overview of what sign-ins happend after a user clicked on a phishing link
 //
-// Author: @janvonkirchheim
-//
 // get all phishing link clicked alerts 
 let lookBackDuration = 30d;
 let clickedAlerts = AlertInfo
